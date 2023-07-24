@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "name": "repo",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
