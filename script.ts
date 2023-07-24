@@ -1,3 +1,3 @@
-const clickHandler = (event: MouseEvent) => {
-    console.log(event);
-}
+const add: (a: number, b: number) => number = (a, b) => {
+    
+ }
